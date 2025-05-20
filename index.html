@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Business</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+  <!-- Navbar -->
+  <nav class="flex flex-wrap justify-between items-center p-4 bg-blue-600 text-white fixed w-full top-0 shadow z-50">
+    <div class="text-xl font-bold">My Business</div>
+    <div class="space-x-4">
+      <a href="#home" class="hover:underline">Home</a>
+      <a href="#about" class="hover:underline">About</a>
+      <a href="#services" class="hover:underline">Services</a>
+      <a href="#product" class="hover:underline">Product</a>
+      <a href="#contact" class="hover:underline">Contact</a>
+      <button onclick="setLanguage('en')" class="ml-4">EN</button>
+      <button onclick="setLanguage('gr')">GR</button>
+    </div>
+  </nav>
+
+  <!-- Content -->
+  <div class="pt-20">
+    <!-- Home Section -->
+    <section id="home" class="text-center p-10 bg-blue-100">
+      <h1 id="title" class="text-4xl font-bold">Welcome to Our Business</h1>
+      <p id="subtitle" class="mt-4 text-lg">We offer the best services to grow your brand.</p>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="p-6 max-w-5xl mx-auto">
+      <h2 id="aboutTitle" class="text-2xl font-semibold mb-2">About Us</h2>
+      <p id="aboutText">
+        We are a dedicated team helping businesses thrive in the digital age.
+      </p>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="p-6 max-w-5xl mx-auto">
+      <h2 id="servicesTitle" class="text-2xl font-semibold mb-2">Our Services</h2>
+      <ul id="servicesList" class="list-disc list-inside">
+        <li>Web Development</li>
+        <li>Marketing Solutions</li>
+        <li>Consulting</li>
+      </ul>
+    </section>
+
+    <!-- Product Section -->
+    <section id="product" class="p-6 max-w-5xl mx-auto">
+      <h2 class="text-2xl font-semibold mb-2">Our Product</h2>
+      <p>
+        Discover our innovative product designed to simplify your workflow and boost productivity.
+      </p>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="p-6 max-w-5xl mx-auto">
+      <h2 class="text-2xl font-semibold mb-2">Contact Us</h2>
+      <p>Email: info@mybusiness.com</p>
+      <p>Phone: +123 456 7890</p>
+    </section>
+  </div>
+
+  <!-- Footer -->
+  <footer class="text-center p-4 bg-gray-800 text-white mt-10">
+    &copy; 2025 My Business. All rights reserved.
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
