@@ -120,7 +120,7 @@
 
                 "email-title": "Email",
                 "hours-title": "Business Hours",
-                "hours": "Monday to Sunday 24/7<br>",
+                "hours": "24/7 Service – Monday to Sunday<br>",
                 "follow-us": "Follow Us",
                 "form-name": "Name",
                 "form-email": "Email",
@@ -230,7 +230,8 @@
                 "phone-title": "Τηλέφωνο",
                 "email-title": "Email",
                 "hours-title": "Ωράριο Λειτουργίας",
-                "hours": "Δευτέρα έως Κυριακή, 24/7<br>",
+                "hours": "24/7 Εξυπηρέτηση – Δευτέρα έως Κυριακή<br>", 
+
                 "follow-us": "Ακολουθήστε μας",
                 "form-name": "Όνομα",
                 "form-email": "Email",
