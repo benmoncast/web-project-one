@@ -37,16 +37,16 @@
                 "contact": "Contact",
                 
                 // Hero Section
-                "hero-title": "Innovative Cleaning Solutions",
-                "hero-subtitle": "We provide professional cleaning services with eco-friendly products and exceptional attention to detail.",
-                "hero-cta": "Call Us",
+                "hero-title": "Innovative Business Solutions",
+                "hero-subtitle": "We help businesses grow with cutting-edge technology and strategic consulting services.",
+                "hero-cta": "Get Started",
                 "hero-learn": "Learn More",
                 
                 // About Section
                 "about-title": "About Our Company",
-                "about-description": "We've been providing exceptional cleaning services to homes and businesses, helping them maintain pristine environments through eco-friendly practices.",
+                "about-description": "Founded in 2010, we've been providing exceptional business solutions to clients worldwide, helping them achieve their goals through innovation and expertise.",
                 "about-subtitle": "Our Mission",
-                "about-mission": "To be the most trusted and innovative cleaning service provider, delivering exceptional cleanliness and peace of mind to homes and businesses while promoting sustainable and responsible practices.",
+                "about-mission": "To empower businesses with innovative solutions that drive growth, efficiency, and competitive advantage in today's dynamic market environment.",
                 "about-value1": "Innovation",
                 "about-value1-desc": "We constantly explore new ideas and technologies to stay ahead of the curve.",
                 "about-value2": "Integrity",
@@ -56,20 +56,19 @@
                 
                 // Services Section
                 "services-title": "Our Services",
-                "services-description": "We offer a comprehensive range of services designed to deliver satisfaction through quality, consistency, and personalized care.",
-                "service1-title": "Cleaning of Hotels",
-                "service1-desc": "Premium cleanliness that leaves lasting impressions.Maintain a spotless and welcoming environment that exceeds guest expectations and enhances your hotel’s reputation.",
-                "service2-title": "AirBnb",
-                "service2-desc": "Every stay begins with a pristine welcome. Provide guests with a fresh, clean, and five-star experience every time they check in. ",
-                "service3-title": "Store",
-                "service3-desc": "Spotless spaces that invite customers in.Enhance your retail experience with a clean, polished environment that boosts customer trust and satisfaction. ",
-                "service4-title": "Apartments",
-                "service4-desc": "Clean homes. Happy residents. Reliable apartment cleaning services that promote comfort, hygiene, and peace of mind for residents.",
-                "service5-title": "Offices",
-                "service5-desc": "A clean workspace is a productive workspace.Professional office cleaning that fosters health, focus, and professionalism. ",
-                "service6-title": "Yacht",
-                "service6-desc": "Luxury cleaning for life at sea. Meticulous cleaning services to maintain the elegance and hygiene of your yacht — inside and out. ",
-                
+                "services-description": "We offer a comprehensive range of services designed to meet your business needs at every stage of growth.",
+                "service1-title": "Business Consulting",
+                "service1-desc": "Strategic planning and expert advice to help your business navigate challenges and seize opportunities.",
+                "service2-title": "Technology Solutions",
+                "service2-desc": "Custom software development and IT infrastructure solutions tailored to your specific requirements.",
+                "service3-title": "Marketing Strategy",
+                "service3-desc": "Data-driven marketing campaigns and brand positioning to increase your market share.",
+                "service4-title": "Global Expansion",
+                "service4-desc": "Support for businesses looking to expand internationally with market research and localization.",
+                "service5-title": "Data Analytics",
+                "service5-desc": "Transform your data into actionable insights with our advanced analytics solutions.",
+                "service6-title": "Customer Support",
+                "service6-desc": "24/7 multilingual customer support services to enhance your customer experience.",
                 "learn-more": "Learn More",
                 
                 // Products Section
@@ -103,24 +102,20 @@
                 "testimonial1": "\"The business analytics platform provided by Global Business Solutions has transformed how we make decisions. The insights are invaluable.\"",
                 "testimonial2": "\"Their consulting services helped us identify new markets and expand internationally. The team is knowledgeable and responsive.\"",
                 "testimonial3": "\"The marketing automation suite has saved us countless hours and increased our conversion rates significantly. Highly recommended!\"",
-                "testimonial4": "\"The marketing automation suite has saved us countless hours and increased our conversion rates significantly. Highly recommended!\"",
-                "position1": "",
-                "position2": "Operation Manager",
-                "position3": "",
-                "position4": "Manager",
+                "position1": "CEO, TechForward",
+                "position2": "Director, Global Imports",
+                "position3": "Marketing Director, Bright Ideas",
                 
                 // Contact Section
                 "contact-title": "Get In Touch",
                 "contact-description": "Have questions or ready to get started? Contact us today and our team will be happy to assist you.",
                 "contact-info": "Contact Information",
-                "contact-location": "Our Location",
                 "address-title": "Address",
-                "address": "Menelaou 87 adios Dinitrios Athens,<br>Greece. Tk 17342",
+                "address": "123 Business Avenue, Suite 500<br>New York, NY 10001",
                 "phone-title": "Phone",
-
                 "email-title": "Email",
                 "hours-title": "Business Hours",
-                "hours": "Monday to Sunday 24/7<br>",
+                "hours": "Monday - Friday: 9:00 AM - 6:00 PM<br>Saturday - Sunday: Closed",
                 "follow-us": "Follow Us",
                 "form-name": "Name",
                 "form-email": "Email",
@@ -129,13 +124,13 @@
                 "form-submit": "Send Message",
                 
                 // Footer
-                "footer-about": "We provide professional cleaning services with eco-friendly products and exceptional attention to detail.",
+                "footer-about": "Innovative solutions for your business growth and success.",
                 "footer-links": "Quick Links",
                 "footer-services": "Services",
-                "footer-newsletter": "Services",
+                "footer-newsletter": "Newsletter",
                 "newsletter-desc": "Subscribe to our newsletter for the latest updates and insights.",
                 "subscribe": "Subscribe",
-                "copyright": "© 2025 All2be Clean. All rights reserved."
+                "copyright": "© 2023 Global Business Solutions. All rights reserved."
             },
             el: {
                 // Navigation
@@ -146,14 +141,14 @@
                 "contact": "Επικοινωνία",
                 
                 // Hero Section
-                "hero-title": "Καινοτόμες Λύσεις Καθαρισμού",
-                "hero-subtitle": "Προσφέρουμε επαγγελματικές υπηρεσίες καθαρισμού με οικολογικά προϊόντα και εξαιρετική προσοχή στη λεπτομέρεια.",
-                "hero-cta": "Καλέστε μας ",
+                "hero-title": "Καινοτόμες Επιχειρηματικές Λύσεις",
+                "hero-subtitle": "Βοηθάμε τις επιχειρήσεις να αναπτυχθούν με προηγμένη τεχνολογία και στρατηγικές συμβουλευτικές υπηρεσίες.",
+                "hero-cta": "Ξεκινήστε",
                 "hero-learn": "Μάθετε Περισσότερα",
                 
                 // About Section
                 "about-title": "Σχετικά με την Εταιρεία μας",
-                "about-description": "Προσφέρουμε εξαιρετικές υπηρεσίες καθαρισμού σε κατοικίες και επιχειρήσεις, βοηθώντας στη διατήρηση καθαρών χώρων μέσω οικολογικών πρακτικών.",
+                "about-description": "Ιδρυθείσα το 2010, παρέχουμε εξαιρετικές επιχειρηματικές λύσεις σε πελάτες παγκοσμίως, βοηθώντας τους να επιτύχουν τους στόχους τους μέσω καινοτομίας και εμπειρογνωμοσύνης.",
                 "about-subtitle": "Η Αποστολή μας",
                 "about-mission": "Να ενδυναμώσουμε τις επιχειρήσεις με καινοτόμες λύσεις που οδηγούν σε ανάπτυξη, αποδοτικότητα και ανταγωνιστικό πλεονέκτημα στο σημερινό δυναμικό εμπορικό περιβάλλον.",
                 "about-value1": "Καινοτομία",
@@ -165,21 +160,19 @@
                 
                 // Services Section
                 "services-title": "Οι Υπηρεσίες μας",
-                "services-description": "Προσφέρουμε ένα ολοκληρωμένο φάσμα υπηρεσιών σχεδιασμένων να προσφέρουν ικανοποίηση μέσω ποιότητας, συνέπειας και εξατομικευμένης φροντίδας.",
-                "service1-title": "Καθαρισμός Ξενοδοχείων",
-                "service1-desc": "Ποιοτική καθαριότητα που αφήνει ανεξίτηλες εντυπώσεις. Διατηρήστε ένα άψογο και φιλόξενο περιβάλλον που υπερβαίνει τις προσδοκίες των επισκεπτών και ενισχύει τη φήμη του ξενοδοχείου σας.",
-                "service2-title": "Airbnb",
-                "service2-desc": "Κάθε διαμονή ξεκινά με μια καθαρή και φιλόξενη υποδοχή. Προσφέρετε στους επισκέπτες μια φρέσκια, καθαρή και πεντάστερη εμπειρία κάθε φορά που κάνουν check-in.",
-                "service3-title": "Κατάστημα",
-                "service3-desc": "Άψογοι χώροι που προσκαλούν τους πελάτες. Αναβαθμίστε την εμπειρία λιανικής με ένα καθαρό, περιποιημένο περιβάλλον που ενισχύει την εμπιστοσύνη και την ικανοποίηση των πελατών.",
-                "service4-title": "Διαμερίσματα",
-                "service4-desc": "Καθαρά σπίτια. Ευτυχισμένοι κάτοικοι. Αξιόπιστες υπηρεσίες καθαρισμού διαμερισμάτων που προάγουν την άνεση, την υγιεινή και την ηρεμία των κατοίκων.",
-                "service5-title": "Γραφεία",
-                "service5-desc": "Ένας καθαρός χώρος εργασίας είναι ένας παραγωγικός χώρος εργασίας. Επαγγελματικός καθαρισμός γραφείων που προάγει την υγεία, τη συγκέντρωση και τον επαγγελματισμό.",
-                
-                "service6-title": "Γιοτ",
-                "service6-desc": "Πολυτελής καθαρισμός για τη ζωή στη θάλασσα. Επιμελείς υπηρεσίες καθαρισμού για τη διατήρηση της κομψότητας και της υγιεινής του γιοτ σας — εσωτερικά και εξωτερικά.",
-                
+                "services-description": "Προσφέρουμε ένα ευρύ φάσμα υπηρεσιών σχεδιασμένων να καλύψουν τις επιχειρηματικές σας ανάγκες σε κάθε στάδιο ανάπτυξης.",
+                "service1-title": "Επιχειρηματική Συμβουλευτική",
+                "service1-desc": "Στρατηγικός σχεδιασμός και εμπειρογνωμοσύνη για να βοηθήσει την επιχείρησή σας να αντιμετωπίσει προκλήσεις και να εκμεταλλευτεί ευκαιρίες.",
+                "service2-title": "Τεχνολογικές Λύσεις",
+                "service2-desc": "Προσαρμοσμένη ανάπτυξη λογισμικού και λύσεις IT υποδομής προσαρμοσμένες στις συγκεκριμένες σας απαιτήσεις.",
+                "service3-title": "Στρατηγική Μάρκετινγκ",
+                "service3-desc": "Στρατηγικές μάρκετινγκ βασισμένες σε δεδομένα και θέση εμπορικής μάρκας για να αυξήσετε το μερίδιο αγοράς σας.",
+                "service4-title": "Διεθνής Επέκταση",
+                "service4-desc": "Υποστήριξη για επιχειρήσεις που επιθυμούν να επεκταθούν διεθνώς με έρευνα αγοράς και τοπικοποίηση.",
+                "service5-title": "Ανάλυση Δεδομένων",
+                "service5-desc": "Μετατρέψτε τα δεδομένα σας σε χρήσιμες πληροφορίες με τις προηγμένες μας λύσεις ανάλυσης.",
+                "service6-title": "Υποστήριξη Πελατών",
+                "service6-desc": "Υπηρεσίες υποστήριξης πελατών πολλαπλών γλωσσών 24/7 για να ενισχύσετε την εμπειρία των πελατών σας.",
                 "learn-more": "Μάθετε Περισσότερα",
                 
                 // Products Section
@@ -208,29 +201,25 @@
                 "request-demo": "Ζητήστε Δείγμα",
                 
                 // Testimonials Section
-                "testimonials-title": "Τι Λένε οι Πελάτες μας", 
-                "testimonials-description": "Ακούστε τις επιχειρήσεις που έχουν μεταμορφώσει τις λειτουργίες τους με τις λύσεις μας.",
+                "testimonials-title": "Τι Λένε οι Πελάτες μας",
+                "testimonials-description": "Ακούστε από επιχειρήσεις που έχουν μεταμορφώσει τις λειτουργίες τους με τις λύσεις μας.",
                 "testimonial1": "\"Η πλατφόρμα επιχειρηματικής ανάλυσης της Global Business Solutions έχει μεταμορφώσει τον τρόπο που παίρνουμε αποφάσεις. Οι πληροφορίες είναι ανεκτίμητες.\"",
                 "testimonial2": "\"Οι συμβουλευτικές τους υπηρεσίες μας βοήθησαν να εντοπίσουμε νέες αγορές και να επεκταθούμε διεθνώς. Η ομάδα είναι γνώστες και ανταποκρίνεται.\"",
                 "testimonial3": "\"Η σουίτα αυτοματισμού μάρκετινγκ μας έχει εξοικονομήσει αμέτρητες ώρες και έχει αυξήσει σημαντικά τα ποσοστά μετατροπής. Συνιστάται ανεπιφύλακτα!\"",
-                "testimonial4": "\"Η σουίτα αυτοματισμού μάρκετινγκ μας έχει εξοικονομήσει αμέτρητες ώρες και έχει αυξήσει σημαντικά τα ποσοστά μετατροπής. Συνιστάται ανεπιφύλακτα!\"",
-               
-                "position1": "",
-                "position2": "Διευθυντής Λειτουργίας",
-                "position3": "",
-                "position4": "Διευθυντής",
+                "position1": "CEO, TechForward",
+                "position2": "Διευθυντής, Global Imports",
+                "position3": "Διευθύντρια Μάρκετινγκ, Bright Ideas",
                 
                 // Contact Section
                 "contact-title": "Επικοινωνήστε μαζί μας",
                 "contact-description": "Έχετε ερωτήσεις ή είστε έτοιμοι να ξεκινήσετε; Επικοινωνήστε μαζί μας σήμερα και η ομάδα μας θα χαρούμε να σας βοηθήσει.",
                 "contact-info": "Στοιχεία Επικοινωνίας",
-                "contact-location": "Η Τοποθεσία μας",
                 "address-title": "Διεύθυνση",
-                "address": "Μενελάου 87, Άγιος Δημήτριος, Αθήνα,<br>Ελλάδα, Τ.Κ. 17342",
+                "address": "123 Business Avenue, Suite 500<br>Νέα Υόρκη, NY 10001",
                 "phone-title": "Τηλέφωνο",
                 "email-title": "Email",
                 "hours-title": "Ωράριο Λειτουργίας",
-                "hours": "Δευτέρα έως Κυριακή, 24/7<br>",
+                "hours": "Δευτέρα - Παρασκευή: 9:00 π.μ. - 6:00 μ.μ.<br>Σάββατο - Κυριακή: Κλειστά",
                 "follow-us": "Ακολουθήστε μας",
                 "form-name": "Όνομα",
                 "form-email": "Email",
@@ -239,13 +228,13 @@
                 "form-submit": "Αποστολή Μηνύματος",
                 
                 // Footer
-                "footer-about": "Προσφέρουμε επαγγελματικές υπηρεσίες καθαρισμού με οικολογικά προϊόντα και εξαιρετική προσοχή στη λεπτομέρεια.",
+                "footer-about": "Καινοτόμες λύσεις για την επιχειρηματική σας ανάπτυξη και επιτυχία.",
                 "footer-links": "Γρήγοροι Σύνδεσμοι",
                 "footer-services": "Υπηρεσίες",
-                "footer-newsletter": "Υπηρεσίες",
+                "footer-newsletter": "Ενημερωτικό Δελτίο",
                 "newsletter-desc": "Εγγραφείτε στο ενημερωτικό μας δελτίο για τις τελευταίες ενημερώσεις και πληροφορίες.",
                 "subscribe": "Εγγραφή",
-                "copyright": "© 2025 All2be Clean. Όλα τα δικαιώματα κατοχυρωμένα."
+                "copyright": "© 2023 Global Business Solutions. Με επιφύλαξη παντός δικαιώματος."
             }
         };
         

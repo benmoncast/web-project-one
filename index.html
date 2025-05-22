@@ -84,6 +84,41 @@
 
 
 
+
+
+
+        .bg-white {
+            transition: all 0.3s ease;
+            perspective: 1000px;
+        }
+        .bg-white:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        .bg-white-inner {
+            transition: transform 0.6s;
+            transform-style: preserve-3d;
+        }
+        .bg-white:hover .mb-4 {
+            transform: rotateY(10deg);
+        }
+        .gallery-filter {
+            transition: all 0.3s ease;
+        }
+        .gallery-filter.active {
+            background-color: #3b82f6;
+            color: white;
+        }
+        .image-overlay {
+            background: linear-gradient(to top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0) 100%);
+        }
+
+
+
+
+
+
+
     </style>
 </head>
 <body class="font-sans bg-lighter">
@@ -261,19 +296,19 @@
                         </p>
                         <!-- Learn More Button <a href="#contact" class="text-blue-600 font-medium hover:text-blue-800 inline-flex items-center" data-i18n="learn-more">
                             Learn More <i class="fas fa-arrow-right ml-2"></i>
-                        </a>-->
+                        </a>     <div class="service-card rounded-xl overflow-hidden shadow-md bg-white" data-category="hotel"></div> -->
                 </div>
-
-                <div class="bg-white p-8 rounded-lg shadow-md hover:shadow-xl transition duration-300 max-w-md mx-auto">
+                 
+                <div class="bg-white p-8 rounded-lg shadow-md hover:shadow-xl transition duration-300 max-w-md mx-auto " service-category="Airbnb">
                 <!-- Image -->
                     <div class="mb-4">
                         <img src="./assets/images/airbnb.jpeg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80" alt="Marketing Automation Platform"class="rounded-lg w-full h-64 object-cover">
                     </div>
 
-                        <h3 class="text-xl font-bold text-gray-800 mb-3" data-i18n="service1-title">
+                        <h3 class="text-xl font-bold text-gray-800 mb-3" data-i18n="service2-title" >
                             Airbnb
                         </h3>
-                        <p class="text-gray-600 mb-4" data-i18n="service1-desc">
+                        <p class="text-gray-600 mb-4" data-i18n="service2-desc">
                             Every stay begins with a pristine welcome. Provide guests with a fresh, clean, and five-star experience every time they check in.
                         </p>
                 </div>
@@ -284,10 +319,10 @@
                         <img src="./assets/images/store.jpeg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80" alt="Marketing Automation Platform"class="rounded-lg w-full h-64 object-cover">
                     </div>
 
-                        <h3 class="text-xl font-bold text-gray-800 mb-3" data-i18n="service1-title">
+                        <h3 class="text-xl font-bold text-gray-800 mb-3" data-i18n="service3-title">
                             Store
                         </h3>
-                        <p class="text-gray-600 mb-4" data-i18n="service1-desc">
+                        <p class="text-gray-600 mb-4" data-i18n="service3-desc">
                             Spotless spaces that invite customers in.Enhance your retail experience with a clean, polished environment that boosts customer trust and satisfaction.
                         </p>
                 </div>
@@ -298,10 +333,10 @@
                         <img src="./assets/images/apartment.jpeg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80" alt="Marketing Automation Platform"class="rounded-lg w-full h-64 object-cover">
                     </div>
 
-                        <h3 class="text-xl font-bold text-gray-800 mb-3" data-i18n="service1-title">
+                        <h3 class="text-xl font-bold text-gray-800 mb-3" data-i18n="service4-title">
                             Apartments
                         </h3>
-                        <p class="text-gray-600 mb-4" data-i18n="service1-desc">
+                        <p class="text-gray-600 mb-4" data-i18n="service4-desc">
                             Clean homes. Happy residents. Reliable apartment cleaning services that promote comfort, hygiene, and peace of mind for residents.
                         </p>
                 </div>
@@ -312,10 +347,10 @@
                         <img src="./assets/images/office.jpeg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80" alt="Marketing Automation Platform"class="rounded-lg w-full h-64 object-cover">
                     </div>
 
-                        <h3 class="text-xl font-bold text-gray-800 mb-3" data-i18n="service1-title">
+                        <h3 class="text-xl font-bold text-gray-800 mb-3" data-i18n="service5-title">
                             Offices
                         </h3>
-                        <p class="text-gray-600 mb-4" data-i18n="service1-desc">
+                        <p class="text-gray-600 mb-4" data-i18n="service5-desc">
                             A clean workspace is a productive workspace.Professional office cleaning that fosters health, focus, and professionalism.
                         </p>
                 </div>
@@ -326,15 +361,13 @@
                         <img src="./assets/images/yacht1.jpeg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80" alt="Marketing Automation Platform"class="rounded-lg w-full h-64 object-cover">
                     </div>
 
-                        <h3 class="text-xl font-bold text-gray-800 mb-3" data-i18n="service1-title">
+                        <h3 class="text-xl font-bold text-gray-800 mb-3" data-i18n="service6-title">
                             Yacht
                         </h3>
-                        <p class="text-gray-600 mb-4" data-i18n="service1-desc">
+                        <p class="text-gray-600 mb-4" data-i18n="service6-desc">
                             Luxury cleaning for life at sea. Meticulous cleaning services to maintain the elegance and hygiene of your yacht — inside and out.
                         </p>
                 </div>
-
-
                 
             </div>
         </div>
@@ -366,9 +399,9 @@
                     <div class="flex items-center">
                         <img src="https://randomuser.me/api/portraits/women/43.jpg" alt="Sp Residents " class="w-12 h-12 rounded-full mr-4">
                         <div>
-                            <h4 class="font-bold text-gray-800"> </h4>
+                            <h4 class="font-bold text-gray-800">Sp Residents </h4>
 
-                            <p class="text-gray-600 text-sm" data-i18n="position1">Sp Residents</p>
+                            <p class="text-gray-600 text-sm" data-i18n="position1"></p>
                         </div>
                     </div>
                 </div>
@@ -385,7 +418,7 @@
                     </div>
                     <p class="text-gray-600 italic mb-6" data-i18n="testimonial2">"Their consulting services helped us identify new markets and expand internationally. The team is knowledgeable and responsive."</p>
                     <div class="flex items-center">
-                        <img src="https://randomuser.me/api/portraits/women/65.jpg" alt="Claire A." class="w-12 h-12 rounded-full mr-4">
+                        <img src="https://randomuser.me/api/portraits/women/75.jpg" alt="Claire A." class="w-12 h-12 rounded-full mr-4">
                         <div>
                             <h4 class="font-bold text-gray-800">Claire A.</h4> 
 
@@ -426,37 +459,19 @@
                             <i class="fas fa-star-half-alt"></i>
                         </div>
                     </div>
-                    <p class="text-gray-600 italic mb-6" data-i18n="testimonial3">"The marketing automation suite has saved us countless hours and increased our conversion rates significantly. Highly recommended!"</p>
+                    <p class="text-gray-600 italic mb-6" data-i18n="testimonial4">"The marketing automation suite has saved us countless hours and increased our conversion rates significantly. Highly recommended!"</p>
                     <div class="flex items-center">
-                        <img src="https://randomuser.me/api/portraits/women/65.jpg" alt="Emma Rodriguez" class="w-12 h-12 rounded-full mr-4">
+                        <img src="https://randomuser.me/api/portraits/women/10.jpg" alt="Emma Rodriguez" class="w-12 h-12 rounded-full mr-4">
                         <div>
                             <h4 class="font-bold text-gray-800">Angelica E.</h4> 
-                            <p class="text-gray-600 text-sm" data-i18n="position3">Manager</p>
+                            <p class="text-gray-600 text-sm" data-i18n="position4">Manager</p>
                         </div>
                     </div>
                 </div>
 
-
-
-
-
-
-
             </div>
         </div>
     </section>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     <!-- Contact Section -->
@@ -471,7 +486,7 @@
             <div class="flex flex-col lg:flex-row gap-12">
                 <div class="lg:w-1/2">
                     <div class="bg-gray-50 p-8 rounded-lg h-full">
-                        <h3 class="text-2xl font-bold text-gray-800 mb-6" data-i18n="contact-info">Our Location</h3>
+                        <h3 class="text-2xl font-bold text-gray-800 mb-6" data-i18n="contact-location">Our Location</h3>
                         
                                 <!-- Google Map -->
                             <div class="mt-8 rounded-xl overflow-hidden shadow-sm animate-fadeIn" style="animation-delay: 0.3s;">
@@ -488,8 +503,6 @@
         
                     </div>
                 </div>
-
-
 
                 
                 <div class="lg:w-1/2">
@@ -508,19 +521,28 @@
                                 </div>
                             </div>
                             
-                            
-                            
-                            
+                                <div class="flex items-start">
+                                <div class="bg-blue-100 p-3 rounded-full mr-4">
+                                    <i class="fas fa-phone-alt text-blue-600"></i>
+                                </div>
+                                <div>
+                                    <h4 class="font-bold text-gray-800 mb-1" data-i18n="phone-title">Phone</h4>
+                                    <p class="text-gray-600">
+                                        <span class="block"  data-i18n="phone1">+30 6939440429‬</span>
+                                        <span class="block" data-i18n="phone2">+30 6998897536‬</span>
+                                    </p>
+                                 </div>
+                                 </div>
 
 
-                            
+                                                        
                             <div class="flex items-start">
                                 <div class="bg-blue-100 p-3 rounded-full mr-4">
                                     <i class="fas fa-envelope text-blue-600"></i>
                                 </div>
                                 <div>
                                     <h4 class="font-bold text-gray-800 mb-1" data-i18n="email-title">Email</h4>
-                                    <p class="text-gray-600">All2beclean@gmail.com</p>
+                                    <p class="text-gray-600" data-i18n="email-company">All2beclean@gmail.com</p>
                                 </div>
                             </div>
                             
@@ -599,9 +621,11 @@
                     <h4 class="text-lg font-bold mb-4" data-i18n="footer-services">Services</h4>
                     <ul class="space-y-2">
                         <li><a href="#" class="text-gray-400 hover:text-white" data-i18n="service1-title">Cleaning Hotel</a></li>
-                        <li><a href="#" class="text-gray-400 hover:text-white" data-i18n="service2-title">Restaurants</a></li>
-                        <li><a href="#" class="text-gray-400 hover:text-white" data-i18n="service3-title">AirBnB</a></li>
-                        <li><a href="#" class="text-gray-400 hover:text-white" data-i18n="service4-title">Boutique hotels</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white" data-i18n="service2-title">AirBnB</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white" data-i18n="service3-title">Stores</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white" data-i18n="service4-title">Apartments</a></li>
+                         <li><a href="#" class="text-gray-400 hover:text-white" data-i18n="service5-title">Offices</a></li>
+                       
                         
                     </ul>
                 </div>
@@ -609,10 +633,10 @@
                 <div>
                     <h4 class="text-lg font-bold mb-4" data-i18n="footer-newsletter">Services</h4>
                          <ul class="space-y-2">
-                        <li><a href="#" class="text-gray-400 hover:text-white" data-i18n="service5-title">Stores</a></li>
-                        <li><a href="#" class="text-gray-400 hover:text-white" data-i18n="service1-title">Apartments</a></li>
-                        <li><a href="#" class="text-gray-400 hover:text-white" data-i18n="service2-title">Offices</a></li>
-                        <li><a href="#" class="text-gray-400 hover:text-white" data-i18n="service3-title">Yacht</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white" data-i18n="service6-title">Yacht</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white" data-i18n="service7-title">Restaurants</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white" data-i18n="service8-title">Boutique hotels</a></li>
+                       
                         </ul>
                        
                    
@@ -646,18 +670,47 @@
       slides[i].classList.add("hidden");
       slides[i].classList.remove("opacity-100");
     }
-
     slideIndex++;
     if (slideIndex > slides.length) slideIndex = 1;
 
     slides[slideIndex - 1].classList.remove("hidden");
     slides[slideIndex - 1].classList.add("opacity-100");
-
     setTimeout(showSlides, 2000);
   }
-
   showSlides();
 </script>
+
+
+  <!-- JavaScript for Filtering -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const filterButtons = document.querySelectorAll('.gallery-filter');
+            const serviceCards = document.querySelectorAll('.bg-white');
+            
+            filterButtons.forEach(button => {
+                button.addEventListener('click', function() {
+                    // Update active state
+                    filterButtons.forEach(btn => btn.classList.remove('active'));
+                    this.classList.add('active');
+                    
+                    const filterValue = this.getAttribute('service-filter');
+                    
+                    // Filter cards
+                    serviceCards.forEach(card => {
+                        if (filterValue === 'all' || card.getAttribute('service-category') === filterValue) {
+                            card.style.display = 'block';
+                        } else {
+                            card.style.display = 'none';
+                        }
+                    });
+                });
+            });
+        });
+    </script>
+
+ 
+
+
 
 </body>
 </html>
