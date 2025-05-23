@@ -100,14 +100,14 @@
                 // Testimonials Section
                 "testimonials-title": "What Our Clients Say",
                 "testimonials-description": "Hear from businesses that have transformed their operations with our solutions.",
-                "testimonial1": "\"The business analytics platform provided by Global Business Solutions has transformed how we make decisions. The insights are invaluable.\"",
-                "testimonial2": "\"Their consulting services helped us identify new markets and expand internationally. The team is knowledgeable and responsive.\"",
-                "testimonial3": "\"The marketing automation suite has saved us countless hours and increased our conversion rates significantly. Highly recommended!\"",
+                "testimonial1": "\"I am very satisfied with the outcome, they really know what they're doing, it exceed my expectation. Definitely, i would recomend this to ny friends and our clients, and looking forward to book you again.\"",
+                "testimonial2": "\"10/10 ratings for their dedication and hardwork. They rarely talk to each other because they are so busy doing such a great job at cleaning our hostel. We can’t help but to compare them and our cleaning experience to other cleaners we’ve hired before.\"",
+                "testimonial3": "\"I am very very very satisfied!! I will make this as a monthly appointment for my shop and would also get the service for my other shops.\"",
                 "testimonial4": "\"The marketing automation suite has saved us countless hours and increased our conversion rates significantly. Highly recommended!\"",
-                "position1": "",
-                "position2": "Operation Manager",
-                "position3": "",
-                "position4": "Manager",
+                "position1": "Sp Residents General Manager",
+                "position2": "Sahostelgrupp Operational Manager",
+                "position3": "Shop Owner",
+                "position4": "",
                 
                 // Contact Section
                 "contact-title": "Get In Touch",
@@ -210,15 +210,15 @@
                 // Testimonials Section
                 "testimonials-title": "Τι Λένε οι Πελάτες μας", 
                 "testimonials-description": "Ακούστε τις επιχειρήσεις που έχουν μεταμορφώσει τις λειτουργίες τους με τις λύσεις μας.",
-                "testimonial1": "\"Η πλατφόρμα επιχειρηματικής ανάλυσης της Global Business Solutions έχει μεταμορφώσει τον τρόπο που παίρνουμε αποφάσεις. Οι πληροφορίες είναι ανεκτίμητες.\"",
-                "testimonial2": "\"Οι συμβουλευτικές τους υπηρεσίες μας βοήθησαν να εντοπίσουμε νέες αγορές και να επεκταθούμε διεθνώς. Η ομάδα είναι γνώστες και ανταποκρίνεται.\"",
-                "testimonial3": "\"Η σουίτα αυτοματισμού μάρκετινγκ μας έχει εξοικονομήσει αμέτρητες ώρες και έχει αυξήσει σημαντικά τα ποσοστά μετατροπής. Συνιστάται ανεπιφύλακτα!\"",
+                "testimonial1": "\"Είμαι πολύ ικανοποιημένος με το αποτέλεσμα, ξέρουν πραγματικά τι κάνουν, ξεπέρασε τις προσδοκίες μου. Σίγουρα θα το συνιστούσα σε φίλους και πελάτες μας από τη Νέα Υόρκη και ανυπομονώ να σας ξανακλείσω.\"",
+                "testimonial2": "\"Βαθμολογίες 10/10 για την αφοσίωση και τη σκληρή δουλειά τους. Σπάνια μιλάνε μεταξύ τους επειδή είναι τόσο απασχολημένοι με το να κάνουν τόσο καλή δουλειά καθαρίζοντας τον ξενώνα μας. Δεν μπορούμε παρά να συγκρίνουμε αυτούς και την εμπειρία μας στον καθαρισμό με άλλους καθαριστές που έχουμε προσλάβει στο παρελθόν.\"",
+                "testimonial3": "\"Είμαι πάρα πάρα πάρα πολύ ικανοποιημένος!! Θα κλείνω αυτό το ραντεβού ως μηνιαίο ραντεβού για το κατάστημά μου και θα εξυπηρετούμαι και από τα άλλα καταστήματά μου.\"",
                 "testimonial4": "\"Η σουίτα αυτοματισμού μάρκετινγκ μας έχει εξοικονομήσει αμέτρητες ώρες και έχει αυξήσει σημαντικά τα ποσοστά μετατροπής. Συνιστάται ανεπιφύλακτα!\"",
                
-                "position1": "",
-                "position2": "Διευθυντής Λειτουργίας",
-                "position3": "",
-                "position4": "Διευθυντής",
+                "position1": "Γενικός Διευθυντής Sp Residents",
+                "position2": "Διευθυντής Λειτουργιών Sahostelgrupp",
+                "position3": "Ιδιοκτήτης καταστήματος",
+                "position4": "",
                 
                 // Contact Section
                 "contact-title": "Επικοινωνήστε μαζί μας",
