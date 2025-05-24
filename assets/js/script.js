@@ -48,11 +48,11 @@
                 "about-subtitle": "Our Mission",
                 "about-mission": "To be the most trusted and innovative cleaning service provider, delivering exceptional cleanliness and peace of mind to homes and businesses while promoting sustainable and responsible practices.",
                 "about-value1": "Innovation",
-                "about-value1-desc": "We constantly explore new ideas and technologies to stay ahead of the curve.",
+                "about-value1-desc": "We constantly exploring new ideas and technology to make our service of cleaning more efficient and productive.",
                 "about-value2": "Integrity",
-                "about-value2-desc": "We build trust through transparency, honesty, and ethical business practices.",
+                "about-value2-desc": "We build trust and Good Relationship with our client, truth, honesty and dedication to work in all our Cleaning Services.",
                 "about-value3": "Collaboration",
-                "about-value3-desc": "We work closely with our clients to understand their unique needs and challenges.",
+                "about-value3-desc": "We work closely with our clients unique need and demand in there cleaning preferences.",
                 
                 // Services Section
                 "services-title": "Our Services",
@@ -100,7 +100,7 @@
                 // Testimonials Section
                 "testimonials-title": "What Our Clients Say",
                 "testimonials-description": "Hear from businesses that have transformed their operations with our solutions.",
-                "testimonial1": "\"I am very satisfied with the outcome, they really know what they're doing, it exceed my expectation. Definitely, i would recomend this to ny friends and our clients, and looking forward to book you again.\"",
+                "testimonial1": "\"I am very satisfied with the outcome, they really know what they're doing, it exceeds my expectation. Definitely, I would recommend this to my friends and our clients and looking forward to book you again.\"",
                 "testimonial2": "\"10/10 ratings for their dedication and hardwork. They rarely talk to each other because they are so busy doing such a great job at cleaning our hostel. We can’t help but to compare them and our cleaning experience to other cleaners we’ve hired before.\"",
                 "testimonial3": "\"I am very very very satisfied!! I will make this as a monthly appointment for my shop and would also get the service for my other shops.\"",
                 "testimonial4": "\"The marketing automation suite has saved us countless hours and increased our conversion rates significantly. Highly recommended!\"",
@@ -157,11 +157,11 @@
                 "about-subtitle": "Η Αποστολή μας",
                 "about-mission": "Να ενδυναμώσουμε τις επιχειρήσεις με καινοτόμες λύσεις που οδηγούν σε ανάπτυξη, αποδοτικότητα και ανταγωνιστικό πλεονέκτημα στο σημερινό δυναμικό εμπορικό περιβάλλον.",
                 "about-value1": "Καινοτομία",
-                "about-value1-desc": "Εξερευνούμε συνεχώς νέες ιδέες και τεχνολογίες για να παραμείνουμε μπροστά.",
+                "about-value1-desc": "Εξερευνούμε συνεχώς νέες ιδέες και τεχνολογίες για να κάνουμε τις υπηρεσίες καθαρισμού μας πιο αποδοτικές και παραγωγικές.",
                 "about-value2": "Ακεραιότητα",
-                "about-value2-desc": "Χτίζουμε εμπιστοσύνη μέσω διαφάνειας, ειλικρίνειας και ηθικών επιχειρηματικών πρακτικών.",
+                "about-value2-desc": "Χτίζουμε εμπιστοσύνη και καλή σχέση με τον πελάτη μας, με αλήθεια, ειλικρίνεια και αφοσίωση στη δουλειά σε όλες τις Υπηρεσίες Καθαρισμού μας.",
                 "about-value3": "Συνεργασία",
-                "about-value3-desc": "Συνεργαζόμαστε στενά με τους πελάτες μας για να κατανοήσουμε τις μοναδικές τους ανάγκες και προκλήσεις.",
+                "about-value3-desc": "Εργαζόμαστε στενά με τους πελάτες μας, λαμβάνοντας υπόψη τις μοναδικές τους ανάγκες και προτιμήσεις στον καθαρισμό.",
                 
                 // Services Section
                 "services-title": "Οι Υπηρεσίες μας",
@@ -210,7 +210,7 @@
                 // Testimonials Section
                 "testimonials-title": "Τι Λένε οι Πελάτες μας", 
                 "testimonials-description": "Ακούστε τις επιχειρήσεις που έχουν μεταμορφώσει τις λειτουργίες τους με τις λύσεις μας.",
-                "testimonial1": "\"Είμαι πολύ ικανοποιημένος με το αποτέλεσμα, ξέρουν πραγματικά τι κάνουν, ξεπέρασε τις προσδοκίες μου. Σίγουρα θα το συνιστούσα σε φίλους και πελάτες μας από τη Νέα Υόρκη και ανυπομονώ να σας ξανακλείσω.\"",
+                "testimonial1": "\"Είμαι πολύ ικανοποιημένος από το αποτέλεσμα, πραγματικά ξέρουν τι κάνουν, ξεπέρασε τις προσδοκίες μου. Σίγουρα θα το πρότεινα στους φίλους μου και στους πελάτες μας, και ανυπομονώ να σας ξανακλείσω.\"",
                 "testimonial2": "\"Βαθμολογίες 10/10 για την αφοσίωση και τη σκληρή δουλειά τους. Σπάνια μιλάνε μεταξύ τους επειδή είναι τόσο απασχολημένοι με το να κάνουν τόσο καλή δουλειά καθαρίζοντας τον ξενώνα μας. Δεν μπορούμε παρά να συγκρίνουμε αυτούς και την εμπειρία μας στον καθαρισμό με άλλους καθαριστές που έχουμε προσλάβει στο παρελθόν.\"",
                 "testimonial3": "\"Είμαι πάρα πάρα πάρα πολύ ικανοποιημένος!! Θα κλείνω αυτό το ραντεβού ως μηνιαίο ραντεβού για το κατάστημά μου και θα εξυπηρετούμαι και από τα άλλα καταστήματά μου.\"",
                 "testimonial4": "\"Η σουίτα αυτοματισμού μάρκετινγκ μας έχει εξοικονομήσει αμέτρητες ώρες και έχει αυξήσει σημαντικά τα ποσοστά μετατροπής. Συνιστάται ανεπιφύλακτα!\"",
